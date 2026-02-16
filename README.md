@@ -39,4 +39,8 @@ The project demonstrates real-world database connectivity and CRUD operations us
 
 ## ⚙️ How to Run the Project
 
-1. Clone the repository:
+1. Clone the repository
+2. Open the project in IDE
+3. Create Database in MySQL
+4. Update database credentials in code
+5. Run the main class
